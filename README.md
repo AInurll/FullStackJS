@@ -1,1 +1,1 @@
-# FullStuckJS
+# FullStackJS
